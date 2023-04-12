@@ -1,0 +1,792 @@
+[
+  {
+    "FinancialYearStart": 2032,
+    "FinancialYearEnd": 2033,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2032-07-01",
+        "EndDate": "2032-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2032-08-01",
+        "EndDate": "2032-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2032-09-01",
+        "EndDate": "2032-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2032-10-01",
+        "EndDate": "2032-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2032-11-01",
+        "EndDate": "2032-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2032-12-01",
+        "EndDate": "2032-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-01-01",
+        "EndDate": "2033-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-02-01",
+        "EndDate": "2033-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2033-03-01",
+        "EndDate": "2033-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-04-01",
+        "EndDate": "2033-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2033-05-01",
+        "EndDate": "2033-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-06-01",
+        "EndDate": "2033-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2033,
+    "FinancialYearEnd": 2034,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2033-07-01",
+        "EndDate": "2033-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-08-01",
+        "EndDate": "2033-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-09-01",
+        "EndDate": "2033-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2033-10-01",
+        "EndDate": "2033-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2033-11-01",
+        "EndDate": "2033-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2033-12-01",
+        "EndDate": "2033-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-01-01",
+        "EndDate": "2034-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-02-01",
+        "EndDate": "2034-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2034-03-01",
+        "EndDate": "2034-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-04-01",
+        "EndDate": "2034-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2034-05-01",
+        "EndDate": "2034-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-06-01",
+        "EndDate": "2034-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2034,
+    "FinancialYearEnd": 2035,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2034-07-01",
+        "EndDate": "2034-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-08-01",
+        "EndDate": "2034-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-09-01",
+        "EndDate": "2034-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2034-10-01",
+        "EndDate": "2034-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2034-11-01",
+        "EndDate": "2034-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2034-12-01",
+        "EndDate": "2034-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-01-01",
+        "EndDate": "2035-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-02-01",
+        "EndDate": "2035-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2035-03-01",
+        "EndDate": "2035-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-04-01",
+        "EndDate": "2035-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2035-05-01",
+        "EndDate": "2035-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-06-01",
+        "EndDate": "2035-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2035,
+    "FinancialYearEnd": 2036,
+    "DaysInYear": 366,
+    "Months": [
+      {
+        "StartDate": "2035-07-01",
+        "EndDate": "2035-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-08-01",
+        "EndDate": "2035-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-09-01",
+        "EndDate": "2035-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2035-10-01",
+        "EndDate": "2035-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2035-11-01",
+        "EndDate": "2035-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2035-12-01",
+        "EndDate": "2035-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-01-01",
+        "EndDate": "2036-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-02-01",
+        "EndDate": "2036-02-29",
+        "PeriodNumber": 8,
+        "DaysInMonth": 29
+      },
+      {
+        "StartDate": "2036-03-01",
+        "EndDate": "2036-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-04-01",
+        "EndDate": "2036-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2036-05-01",
+        "EndDate": "2036-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-06-01",
+        "EndDate": "2036-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2036,
+    "FinancialYearEnd": 2037,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2036-07-01",
+        "EndDate": "2036-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-08-01",
+        "EndDate": "2036-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-09-01",
+        "EndDate": "2036-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2036-10-01",
+        "EndDate": "2036-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2036-11-01",
+        "EndDate": "2036-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2036-12-01",
+        "EndDate": "2036-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-01-01",
+        "EndDate": "2037-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-02-01",
+        "EndDate": "2037-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2037-03-01",
+        "EndDate": "2037-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-04-01",
+        "EndDate": "2037-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2037-05-01",
+        "EndDate": "2037-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-06-01",
+        "EndDate": "2037-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2037,
+    "FinancialYearEnd": 2038,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2037-07-01",
+        "EndDate": "2037-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-08-01",
+        "EndDate": "2037-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-09-01",
+        "EndDate": "2037-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2037-10-01",
+        "EndDate": "2037-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2037-11-01",
+        "EndDate": "2037-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2037-12-01",
+        "EndDate": "2037-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-01-01",
+        "EndDate": "2038-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-02-01",
+        "EndDate": "2038-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2038-03-01",
+        "EndDate": "2038-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-04-01",
+        "EndDate": "2038-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2038-05-01",
+        "EndDate": "2038-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-06-01",
+        "EndDate": "2038-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2038,
+    "FinancialYearEnd": 2039,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2038-07-01",
+        "EndDate": "2038-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-08-01",
+        "EndDate": "2038-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-09-01",
+        "EndDate": "2038-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2038-10-01",
+        "EndDate": "2038-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2038-11-01",
+        "EndDate": "2038-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2038-12-01",
+        "EndDate": "2038-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-01-01",
+        "EndDate": "2039-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-02-01",
+        "EndDate": "2039-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2039-03-01",
+        "EndDate": "2039-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-04-01",
+        "EndDate": "2039-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2039-05-01",
+        "EndDate": "2039-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-06-01",
+        "EndDate": "2039-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2039,
+    "FinancialYearEnd": 2040,
+    "DaysInYear": 366,
+    "Months": [
+      {
+        "StartDate": "2039-07-01",
+        "EndDate": "2039-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-08-01",
+        "EndDate": "2039-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-09-01",
+        "EndDate": "2039-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2039-10-01",
+        "EndDate": "2039-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2039-11-01",
+        "EndDate": "2039-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2039-12-01",
+        "EndDate": "2039-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-01-01",
+        "EndDate": "2040-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-02-01",
+        "EndDate": "2040-02-29",
+        "PeriodNumber": 8,
+        "DaysInMonth": 29
+      },
+      {
+        "StartDate": "2040-03-01",
+        "EndDate": "2040-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-04-01",
+        "EndDate": "2040-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2040-05-01",
+        "EndDate": "2040-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-06-01",
+        "EndDate": "2040-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2040,
+    "FinancialYearEnd": 2041,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2040-07-01",
+        "EndDate": "2040-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-08-01",
+        "EndDate": "2040-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-09-01",
+        "EndDate": "2040-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2040-10-01",
+        "EndDate": "2040-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2040-11-01",
+        "EndDate": "2040-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2040-12-01",
+        "EndDate": "2040-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-01-01",
+        "EndDate": "2041-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-02-01",
+        "EndDate": "2041-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2041-03-01",
+        "EndDate": "2041-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-04-01",
+        "EndDate": "2041-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2041-05-01",
+        "EndDate": "2041-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-06-01",
+        "EndDate": "2041-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2041,
+    "FinancialYearEnd": 2042,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2041-07-01",
+        "EndDate": "2041-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-08-01",
+        "EndDate": "2041-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-09-01",
+        "EndDate": "2041-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2041-10-01",
+        "EndDate": "2041-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2041-11-01",
+        "EndDate": "2041-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2041-12-01",
+        "EndDate": "2041-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2042-01-01",
+        "EndDate": "2042-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2042-02-01",
+        "EndDate": "2042-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2042-03-01",
+        "EndDate": "2042-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2042-04-01",
+        "EndDate": "2042-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2042-05-01",
+        "EndDate": "2042-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2042-06-01",
+        "EndDate": "2042-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  }
+]

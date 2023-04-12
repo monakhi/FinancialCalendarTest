@@ -1,0 +1,397 @@
+[
+  {
+    "FinancialYearStart": 2022,
+    "FinancialYearEnd": 2023,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2022-07-01",
+        "EndDate": "2022-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2022-08-01",
+        "EndDate": "2022-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2022-09-01",
+        "EndDate": "2022-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2022-10-01",
+        "EndDate": "2022-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2022-11-01",
+        "EndDate": "2022-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2022-12-01",
+        "EndDate": "2022-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-01-01",
+        "EndDate": "2023-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-02-01",
+        "EndDate": "2023-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2023-03-01",
+        "EndDate": "2023-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-04-01",
+        "EndDate": "2023-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2023-05-01",
+        "EndDate": "2023-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-06-01",
+        "EndDate": "2023-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2023,
+    "FinancialYearEnd": 2024,
+    "DaysInYear": 366,
+    "Months": [
+      {
+        "StartDate": "2023-07-01",
+        "EndDate": "2023-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-08-01",
+        "EndDate": "2023-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-09-01",
+        "EndDate": "2023-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2023-10-01",
+        "EndDate": "2023-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2023-11-01",
+        "EndDate": "2023-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2023-12-01",
+        "EndDate": "2023-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-01-01",
+        "EndDate": "2024-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-02-01",
+        "EndDate": "2024-02-29",
+        "PeriodNumber": 8,
+        "DaysInMonth": 29
+      },
+      {
+        "StartDate": "2024-03-01",
+        "EndDate": "2024-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-04-01",
+        "EndDate": "2024-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2024-05-01",
+        "EndDate": "2024-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-06-01",
+        "EndDate": "2024-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2024,
+    "FinancialYearEnd": 2025,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2024-07-01",
+        "EndDate": "2024-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-08-01",
+        "EndDate": "2024-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-09-01",
+        "EndDate": "2024-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2024-10-01",
+        "EndDate": "2024-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2024-11-01",
+        "EndDate": "2024-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2024-12-01",
+        "EndDate": "2024-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-01-01",
+        "EndDate": "2025-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-02-01",
+        "EndDate": "2025-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2025-03-01",
+        "EndDate": "2025-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-04-01",
+        "EndDate": "2025-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2025-05-01",
+        "EndDate": "2025-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-06-01",
+        "EndDate": "2025-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2025,
+    "FinancialYearEnd": 2026,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2025-07-01",
+        "EndDate": "2025-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-08-01",
+        "EndDate": "2025-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-09-01",
+        "EndDate": "2025-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2025-10-01",
+        "EndDate": "2025-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2025-11-01",
+        "EndDate": "2025-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2025-12-01",
+        "EndDate": "2025-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-01-01",
+        "EndDate": "2026-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-02-01",
+        "EndDate": "2026-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2026-03-01",
+        "EndDate": "2026-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-04-01",
+        "EndDate": "2026-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2026-05-01",
+        "EndDate": "2026-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-06-01",
+        "EndDate": "2026-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  },
+  {
+    "FinancialYearStart": 2026,
+    "FinancialYearEnd": 2027,
+    "DaysInYear": 365,
+    "Months": [
+      {
+        "StartDate": "2026-07-01",
+        "EndDate": "2026-07-31",
+        "PeriodNumber": 1,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-08-01",
+        "EndDate": "2026-08-31",
+        "PeriodNumber": 2,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-09-01",
+        "EndDate": "2026-09-30",
+        "PeriodNumber": 3,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2026-10-01",
+        "EndDate": "2026-10-31",
+        "PeriodNumber": 4,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2026-11-01",
+        "EndDate": "2026-11-30",
+        "PeriodNumber": 5,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2026-12-01",
+        "EndDate": "2026-12-31",
+        "PeriodNumber": 6,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2027-01-01",
+        "EndDate": "2027-01-31",
+        "PeriodNumber": 7,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2027-02-01",
+        "EndDate": "2027-02-28",
+        "PeriodNumber": 8,
+        "DaysInMonth": 28
+      },
+      {
+        "StartDate": "2027-03-01",
+        "EndDate": "2027-03-31",
+        "PeriodNumber": 9,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2027-04-01",
+        "EndDate": "2027-04-30",
+        "PeriodNumber": 10,
+        "DaysInMonth": 30
+      },
+      {
+        "StartDate": "2027-05-01",
+        "EndDate": "2027-05-31",
+        "PeriodNumber": 11,
+        "DaysInMonth": 31
+      },
+      {
+        "StartDate": "2027-06-01",
+        "EndDate": "2027-06-30",
+        "PeriodNumber": 12,
+        "DaysInMonth": 30
+      }
+    ]
+  }
+]
